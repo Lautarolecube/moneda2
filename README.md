@@ -1,6 +1,6 @@
 #Descripción del proyecto
 
-Este programa está destinado para que cualquier usuario pueda utilizar un conversor de monedas en base a pesos ARS en lenguaje Python. Aedmás también permite almacenar un histórico de todas las conversiones de monedas que fué realizando en el tiempo, guardando en archivos de texto.
+Este programa está destinado para que cualquier usuario quiera utilizar un conversor de monedas en base a pesos ARS en lenguaje Python. Además también permite almacenar un histórico de todas las conversiones de monedas que fué realizando en el tiempo, guardando en archivos de texto.
 
 ---
 
